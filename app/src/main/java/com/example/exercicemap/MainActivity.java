@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
        BtnPhone.setOnClickListener(new View.OnClickListener() {
            @Override
            public void onClick(View view) {
-               
+
            }
        });
 
