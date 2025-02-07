@@ -12,10 +12,9 @@ public class MainActivityTest {
     public ActivityScenarioRule<MainActivity> mActivityTestRule = new
             ActivityScenarioRule<MainActivity>(MainActivity.class);
 
-
     @Test
     public  void statique()
     {
-        
+
     }
 }
